@@ -9,8 +9,9 @@ C:\Users\Pc-Home\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp3.1\
 C:\Users\Pc-Home\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp3.1\SeleniumTest.pdb
 C:\Users\Pc-Home\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Pc-Home\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp3.1\WebDriver.dll
-C:\Users\Pc-Home\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTest.csproj.CoreCompileInputs.cache
 C:\Users\Pc-Home\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTest.csproj.CopyComplete
 C:\Users\Pc-Home\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTest.dll
 C:\Users\Pc-Home\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTest.pdb
 C:\Users\Pc-Home\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTest.genruntimeconfig.cache
+C:\Users\Pc-Home\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp3.1\SeleniumTest.csproj.CoreCompileInputs.cache
+C:\Users\Pc-Home\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp3.1\WebDriver.Support.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3eeD7YAwPkvSmEuTkH2oylZiOvB07Jlw8kb2ET0Oiv7in920stkm5Mkf5ThX/YWKxOe9xUN+sVsdtFpdDzb1eg==",
+  "dgSpecHash": "NWq3Q858pSMuBfNwlqBvqCBaGo/6ouh+DaLkAFNWh7cLWVERHRgMzwUjb7E/g74P69vz+X88ESUxPncmb9+3fA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Pc-Home\\source\\repos\\SeleniumTest\\SeleniumTest\\SeleniumTest.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,7 @@
     "C:\\Users\\Pc-Home\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Pc-Home\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Pc-Home\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Pc-Home\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
     "C:\\Users\\Pc-Home\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
     "C:\\Users\\Pc-Home\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\Pc-Home\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
